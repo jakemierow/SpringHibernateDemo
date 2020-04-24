@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="DonutDB" uuid="302c84c3-3a8c-425e-a65d-a895cc88a638">
+      <driver-ref>derby.embedded</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.apache.derby.jdbc.EmbeddedDriver</jdbc-driver>
+      <jdbc-url>jdbc:derby:$USER_HOME$/Downloads/dist-java-spring-hib-inclass-master/db</jdbc-url>
+    </data-source>
+  </component>
+</project>
